@@ -1,0 +1,8 @@
+<templateSet group="xsl">
+  <template name="o" value="&lt;xsl:otherwise&gt;&#10;    $END$&#10;&lt;/xsl:otherwise&gt;" description="Otherwise." toReformat="false" toShortenFQNames="true">
+    <context>
+      <option name="JSP" value="false" />
+      <option name="XML" value="true" />
+    </context>
+  </template>
+</templateSet>

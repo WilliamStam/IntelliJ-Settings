@@ -1,0 +1,10 @@
+<application>
+  <component name="BitbucketServerRegistry">
+    <instances>
+      <instance uuid="8f5c779d-09ec-48ed-812b-12b228dd71de" baseUri="https://jira.itna.co.za:9443/" />
+    </instances>
+    <lookup>
+      <record scheme="https" hostname="jira.itna.co.za" port="9443" path="/" uuid="8f5c779d-09ec-48ed-812b-12b228dd71de" />
+    </lookup>
+  </component>
+</application>

@@ -1,0 +1,12 @@
+<application>
+  <component name="CssEmmetOptions">
+    <option name="autoInsertCssPrefixedEnabled" value="false" />
+  </component>
+  <component name="EmmetOptions">
+    <option name="filtersEnabledByDefault">
+      <set>
+        <option value="t" />
+      </set>
+    </option>
+  </component>
+</application>

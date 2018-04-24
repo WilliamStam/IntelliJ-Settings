@@ -1,0 +1,8 @@
+<templateSet group="Mine">
+  <template name="test" value="test_array($ARRAY$);" description="" toReformat="false" toShortenFQNames="true">
+    <variable name="ARRAY" expression="" defaultValue="" alwaysStopAt="true" />
+    <context>
+      <option name="PHP" value="true" />
+    </context>
+  </template>
+</templateSet>
