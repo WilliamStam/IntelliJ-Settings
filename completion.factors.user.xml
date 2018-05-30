@@ -376,6 +376,9 @@
         <observation name="explicitSelect" value="24.0" />
         <observation name="typedSelect" value="254.0" />
       </dailyData>
+      <dailyData date="30-5-2018">
+        <observation name="cancelled" value="5.0" />
+      </dailyData>
     </factor>
     <factor id="completionType">
       <dailyData date="23-5-2018">
@@ -409,6 +412,9 @@
       </dailyData>
       <dailyData date="29-5-2018">
         <observation name="count" value="974.0" />
+      </dailyData>
+      <dailyData date="30-5-2018">
+        <observation name="count" value="5.0" />
       </dailyData>
     </factor>
     <factor id="doubleFeature:explicitProximity">
@@ -617,13 +623,6 @@
         <observation name="max" value="100.0" />
         <observation name="min" value="-101.0" />
         <observation name="variance" value="323.777482" />
-      </dailyData>
-      <dailyData date="28-5-2018">
-        <observation name="average" value="1356749535745143800000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000.0" />
-        <observation name="count" value="265.0" />
-        <observation name="max" value="179769313486231570000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000.0" />
-        <observation name="min" value="-101.0" />
-        <observation name="variance" value="�" />
       </dailyData>
       <dailyData date="29-5-2018">
         <observation name="average" value="-13.286486" />
@@ -1166,6 +1165,10 @@
       <dailyData date="29-5-2018">
         <observation name="average" value="204.868256" />
         <observation name="count" value="797.0" />
+      </dailyData>
+      <dailyData date="30-5-2018">
+        <observation name="average" value="158.4" />
+        <observation name="count" value="5.0" />
       </dailyData>
     </factor>
   </component>
